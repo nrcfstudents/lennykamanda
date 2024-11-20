@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>service</title>
+</head>
+<body>
+    <nav class="navba">
+		<a href="index.html">index</a>
+		<a href="about.html">about</a>
+		<a href="services.html">services</a>
+	</nav>
+	<div>
+	    <h3>acting</h3>
+	    <p>i have acting skills</p>
+	    </div>
+	    <div>
+
+	    <img src="hero.jfif">
+	        <h1<dancing<h1>
+	        <p>ilove dancing</P>
